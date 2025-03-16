@@ -1,1 +1,1 @@
-
+print("Zaciname gitovat")
