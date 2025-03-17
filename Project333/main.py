@@ -7,3 +7,5 @@ dictionary = {"one": 1}
 print("Hello world")
 
 print("Provedli jsme zmeny")
+
+print("Projekt 1")
